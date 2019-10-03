@@ -3,7 +3,7 @@
   
 <li><h3>A simple python script to block selected websites for a given range of time period.</h3></li>
 
-<li>You can add as many websites as you want in the list named 'website_list' in the
+<li>You can add as many Websites as you want in the list named 'website_list' in the
 website_blocker.py file and all that sites will be blocked for specified time period.</li>
 
 <li>This script needs to be run with administrator permissions. so u need to use 'sudo' in case
